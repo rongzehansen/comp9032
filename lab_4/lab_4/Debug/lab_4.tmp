@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\Debug\lab_4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab_4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab_4.map</FILE>
+  <FILE>lab_4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <flag><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>50</LINE></flag>
+  <RESET><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>59</LINE></RESET>
+  <Timer1_COMPA_ISR><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>92</LINE></Timer1_COMPA_ISR>
+  <lcd_command><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>245</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>275</LINE></lcd_wait>
+  <main><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>133</LINE></main>
+  <prologue><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>93</LINE></prologue>
+  <chapter1><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>107</LINE></chapter1>
+  <output_revs><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>201</LINE></output_revs>
+  <epilogue><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>117</LINE></epilogue>
+  <loop><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>157</LINE></loop>
+  <motor_main><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>166</LINE></motor_main>
+  <motor_srecord><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>170</LINE></motor_srecord>
+  <motor_waitrot><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>193</LINE></motor_waitrot>
+  <motor_erecord><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>180</LINE></motor_erecord>
+  <motor_donerot><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>198</LINE></motor_donerot>
+  <convert_to_ascii><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>210</LINE></convert_to_ascii>
+  <divide_hundreds><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>213</LINE></divide_hundreds>
+  <handle_tens><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>220</LINE></handle_tens>
+  <lcd_data><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>258</LINE></lcd_data>
+  <divide_tens><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>225</LINE></divide_tens>
+  <handle_units><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>232</LINE></handle_units>
+  <lcd_wait_loop><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>281</LINE></lcd_wait_loop>
+  <sleep_1ms><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>297</LINE></sleep_1ms>
+  <delayloop_1ms><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>302</LINE></delayloop_1ms>
+  <sleep_5ms><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>309</LINE></sleep_5ms>
+  <sleep_30ms><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_4\lab_4\main.asm</FILE><LINE>317</LINE></sleep_30ms>
+ </LABELS>
+</ASSEMBLER_INFO>

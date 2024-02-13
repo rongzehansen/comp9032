@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\Debug\lab_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab_2.map</FILE>
+  <FILE>lab_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <len_s1><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>12</LINE></len_s1>
+  <len_s2><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>13</LINE></len_s2>
+  <prev_row><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>15</LINE></prev_row>
+  <curr_row><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>16</LINE></curr_row>
+  <init><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>123</LINE></init>
+  <s1><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>22</LINE></s1>
+  <s2><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>23</LINE></s2>
+  <init_prev_row><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>140</LINE></init_prev_row>
+  <main><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>147</LINE></main>
+  <outer_loop><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>155</LINE></outer_loop>
+  <init_1st_col><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>160</LINE></init_1st_col>
+  <halt><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>248</LINE></halt>
+  <inner_loop_p1><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>178</LINE></inner_loop_p1>
+  <get_cost_eq><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>215</LINE></get_cost_eq>
+  <get_cost_ne><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>220</LINE></get_cost_ne>
+  <inner_loop_p2><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>188</LINE></inner_loop_p2>
+  <output_result><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>245</LINE></output_result>
+  <mov_ptr_s2><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>207</LINE></mov_ptr_s2>
+  <update_row><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>227</LINE></update_row>
+  <update_col><FILE>C:\Users\rdcor\source\repos\UNSW\PGRD\COMP9032\lab_2\lab_2\task_2.asm</FILE><LINE>235</LINE></update_col>
+ </LABELS>
+</ASSEMBLER_INFO>
